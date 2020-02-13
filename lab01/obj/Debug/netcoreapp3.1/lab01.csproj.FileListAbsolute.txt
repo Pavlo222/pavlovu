@@ -1,0 +1,11 @@
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\bin\Debug\netcoreapp3.1\lab01.exe
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\bin\Debug\netcoreapp3.1\lab01.deps.json
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\bin\Debug\netcoreapp3.1\lab01.runtimeconfig.json
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\bin\Debug\netcoreapp3.1\lab01.runtimeconfig.dev.json
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\bin\Debug\netcoreapp3.1\lab01.dll
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\bin\Debug\netcoreapp3.1\lab01.pdb
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\obj\Debug\netcoreapp3.1\lab01.csprojAssemblyReference.cache
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\obj\Debug\netcoreapp3.1\lab01.AssemblyInfoInputs.cache
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\obj\Debug\netcoreapp3.1\lab01.AssemblyInfo.cs
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\obj\Debug\netcoreapp3.1\lab01.dll
+C:\Users\Вульчак Павло\Documents\Visual Studio 2019\Нова папка\lab01\lab01\obj\Debug\netcoreapp3.1\lab01.pdb
