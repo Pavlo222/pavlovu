@@ -8,7 +8,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            int n = 540;
+            int n = 550;
             int result = lab01.Program.Example(n);
             Assert.AreEqual(9, result);
         }
